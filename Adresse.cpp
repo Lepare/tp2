@@ -1,6 +1,3 @@
-Je bousille mon code encore pour essayer de voir ce que ca fera!:wq
-
-JE VIENS DE BOUSSILLER MON BODE AVEC CETTE PHRASE!!
 /**
  * \file Adresse.cpp
  * \brief classe adresse
